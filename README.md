@@ -10,7 +10,7 @@ Descripción:
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   Darío Megías Guerrero     :octocat:
+ * :bust_in_silhouette:   Darío Megías Guerrero     [:octocat:](https://github.com/Nintwarr)
 
 ----- 
 
