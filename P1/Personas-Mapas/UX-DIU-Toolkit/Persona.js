@@ -17,7 +17,7 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) {
-        $scope.Grupo_ID ="DIU1.ABCDEF";
+        $scope.Grupo_ID ="DIU2.Mjölnir";
         $scope.Curso ="2019/20";
         $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
 
@@ -33,13 +33,13 @@ angular.module("angular", [])
 
 
 				Id: 0,
-				Name: "Javier Cole",
-				Photo: "javier-cole.jpg",
+				Name: "Javier Roldán",
+				Photo: "javier-roldan.jpg",
 				Quote: "Vive y deja vivir",
 				Age: 45,
 				Occupation: "Fotógrafo",
 				Family: "Divorciado desde hace 3 años",
-				Location: "Autria (Bregenz)",
+				Location: "Asturias (Gijón)",
 				Character: "Le gusta estar en contacto con la naturaleza",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 5 },
@@ -49,7 +49,7 @@ angular.module("angular", [])
 				],
 				Goals: ["Formar una familia", "Tener su propia revista digital sobre naturaleza"],
 				Frustrations: ["Cada vez que confía plenamente en alguien, le acaba traicionando.", "Sufre más bloqueos creativos de los que le gustaría, Se siente algo solo en una casa muy grande para una sola persona"],
-				Bio: "Nació y se crió en Viena y se formó allí en fotografía, pero no le resultó una mejor localización Bregenz dada su cercanía con la naturaleza y otros países vecinos como Suiza y Alemania. LLeva 10 años trabajando para una revista austríaca. Si bien conserva amigos de la adolescencia, ya casi no ve a ninguno",
+				Bio: "Nació y se crió en Madrid y se formó allí en fotografía, pero le resultó una mejor localización Asturias dada su cercanía con la naturaleza, Galicia, Euskadi y el mar. LLeva 10 años trabajando para una revista asturiana. Si bien conserva amigos de la adolescencia, ya casi no ve a ninguno",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 3 },
 					{ Name: "Movil", Value: 4 },
@@ -72,11 +72,11 @@ angular.module("angular", [])
                 /*** Cambiar datos             *******/
                 /*************************************/
 
-
+austríaca
 				Id: 1,
 				Name: "Alba Moreno",
 				Photo: "alba-moreno.jpg",
-				Quote: "A quotation that captures the essence of this person's personality",
+				Quote: "¡Qué nada te pare!",
 				Age: 24,
 				Occupation: "Ingeniera de sistemas especializada en sistemas Unix.",
 				Family: "Vive, de momento, con sus padres adoptivos y su hermana",
@@ -98,7 +98,7 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 5 }
 
 				],
-                Contextos:   "The goals this user hopes to achieve." ,
+                Contextos:   "Quiere viajar por Europa para buscar trabajo fuera pero no puede arriesgarse a gastar mucho dinero en hospedaje" ,
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional (Ads)", Value: 1 },
 					{ Name: "Online & Social Media", Value: 4 },

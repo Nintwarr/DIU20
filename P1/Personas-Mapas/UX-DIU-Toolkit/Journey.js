@@ -19,7 +19,7 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) {
-		$scope.Grupo_ID ="DIU1.ABCDEF";
+		$scope.Grupoº_ID ="DIU2.Mjölnir";
         $scope.Curso ="2019/20";
         $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
 
@@ -34,8 +34,8 @@ angular.module("angular", [])
                 /*************************************/
 
 				Id: 0,
-				Name: "Javier Cole",
-                Photo: "javier-cole.jpg",
+				Name: "Javier Roldán",
+                Photo: "javier-roldan.jpg",
 
                 /*** PASO #1: INSPIRACION ***/
                 goal1: "Quiere encontrar una forma de compartir su casa",
@@ -53,7 +53,7 @@ angular.module("angular", [])
 
                 /*** PASO #3: ACTUA ***/
 
-                goal3: "Decide que va a probar una forma compartición abierta, nada de alquiler tradicional",
+                goal3: "Decide que va a probar una forma de compartición abierta, nada de alquiler tradicional",
                 touch3: "Ordenador",
                 feel3: "4",
                 con3: "No sabe si encontrará información suficiente",
@@ -61,7 +61,7 @@ angular.module("angular", [])
 
                 /*** PASO #4: OBSERVA ***/
 
-                goal4: "Por redes sociales le recomiendan Compartetupiso.com",
+                goal4: "Por redes sociales le recomiendan compartetupiso.com",
                 touch4: "Móvil (Twitter)",
                 feel4: "5",
                 con4: "Entra a la página y ve que es básicamente lo que él busca, una convivencia más relajada y abierta",
@@ -69,10 +69,10 @@ angular.module("angular", [])
 
                  /*** PASO #5: ANALIZA ***/
 
-                goal5: "Lee la información del inicio, lo que promete, y se ve bastante profesional. Pero no está nada claro como funciona",
+                goal5: 'Lee la información del inicio, lo que promete, y se ve bastante profesional. Pero no está nada claro como funciona (no ve el botón de "cómo funciona")',
                 touch5: "Ordenador",
                 feel5: "3",
-                con5: "Realmente no ve cómo contactar con personas que comparten, o una forma de que le contacten. Intenta registrarse y le piden que entre a un grupo de Facebook, pero él no tiene cuenta",
+                con5: "Realmente no ve cómo contactar con personas que quieran hospedarse en su casa. Se registra y le piden que entre a un grupo de Facebook, pero él no tiene cuenta",
                 ima5: "cartoon-phoning.png",
 
 
@@ -92,55 +92,55 @@ angular.module("angular", [])
                 /*************************************/
 
 				Id: 1,
-				Name: "Monica Suarez",
-                Photo: "woman.png",
+				Name: "Alba Moreno",
+                Photo: "alba-moreno.jpg",
 
 				 /*** PASO #1: INSPIRACION ***/
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
-                touch1: "agenda",
+                goal1: "Acaba de conseguir trabajo como administradora de sistemas. Trabaja a distancia y sólo por las mañanas. Así que quiere ir viviendo en diferentes lugares de España",
+                touch1: "Calendario",
                 feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
-                ima1: "cartoon-going.png",
+                con1: "Le gustaría encontrar alojamiento barato en Barcelona primero, pero no tiene muchas esperanzas.",
+                ima1: "cartoon-planning.png",
 
-                /*** PASO #2: DECICION ***/
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
-                touch2: "Servicio (agencia)",
+                /*** PASO #2: DECISION ***/
+                goal2: "Busca por internet formas de convivencia baratas. Sabe que compartiendo piso le saldrá más barato, pero necesita un sitio en el que confiar",
+                touch2: "Ordenador",
                 feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
-                ima2: "cartoon-teamthinking.png",
+                con2: "Hay muchas posibles páginas y estudiarlas todas resulta abrumador.",
+                ima2: "cartoon-thinking.png",
 
                 /*** PASO #3: ACTUA ***/
 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
-                touch3: "Móvil (llamada)",
-                feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
-                ima3: "cartoon-phoningangry.png",
+                goal3: "Al final se decide por compartetupiso.com porque le gusta la idea del coliving y vivir con gente que comparte profesión",
+                touch3: "Ordenador",
+                feel3: "4",
+                con3: "Aunque le gusta la idea, no tiene muy claro cómo va a funcionar esto",
+                ima3: "cartoon-deciding2.png",
 
                 /*** PASO #4: OBSERVA ***/
 
-                goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
-                touch4: "Móvil (webapp)",
+                goal4: "Lee toda la información de la página, lee el blog y acaba registrándose",
+                touch4: "Ordenador",
                 feel4: "2",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
-                ima4: "cartoon-phone-street.png",
+                con4: "La idea le parece muy chula, pero hasta que no vea el funcionamiento del sistema está un poco reticente. Tras registrarse le enlaza a un grupo de Facebook y no confía mucho, pero entra",
+                ima4: "cartoon-why.png",
 
                  /*** PASO #5: ANALIZA ***/
 
-                goal5: "Reserva a traves de la aplicación ",
-                touch5: "Móvil (webapp)",
+                goal5: "Entra al grupo de Facebook y pregunta al personal de la página mediante la pestaña de contactow sobre el funcionamiento",
+                touch5: "Ordenador",
                 feel5: "3",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
-                ima5: "cartoon-phone-sitting.png",
+                con5: "Parece que no hay ningún sistema informático detrás del proceso, que todo son relaciones con personas. La verdad es que le sorprende y está un poco confundida",
+                ima5: "cartoon-looking.png",
 
 
                 /*** PASO #6: CONCLUSION ***/
 
-                goal6: "Consiguie reservar para vacaciones pero no era lo que tenía en mente",
-                touch6: "Ordenador (reserva OK)",
-                feel6: "2",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
-                ima6: "cartoon-PChard.png",
+                goal6: "Al final entiende que se trata de personas que ponen en contacto a otras personas en función del tipo de convivencia que quieren experimentar y otra información acerca de ellos mismos. Al final le ofrecen compartir piso precisamente en Barcelona",
+                touch6: "Ordenador",
+                feel6: "3",
+                con6: "Va a seguir adelante con esto pero sigue sin confiar demasiado en el sistema. De momento tiene ya el viaje a Barcelona y va a probar la experiencia.",
+                ima6: "cartoon-going.png",
 
 
 
