@@ -48,18 +48,18 @@ angular.module("angular", [])
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 3 }
 				],
 				Goals: ["Formar una familia", "Tener su propia revista digital sobre naturaleza"],
-				Frustrations: ["Cada vez que confía plenamente en alguien, le acaba traicionando.", "Sufre más bloqueos creativos de los que le gustaría, Se siente algo solo en una casa muy grande para una sola persona"],
+				Frustrations: ["Cada vez que confía plenamente en alguien, le acaba traicionando.", "Sufre más bloqueos creativos de los que le gustaría", "Se siente algo solo en una casa muy grande para una sola persona"],
 				Bio: "Nació y se crió en Madrid y se formó allí en fotografía, pero le resultó una mejor localización Asturias dada su cercanía con la naturaleza, Galicia, Euskadi y el mar. LLeva 10 años trabajando para una revista asturiana. Si bien conserva amigos de la adolescencia, ya casi no ve a ninguno",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 3 },
+					{ Name: "TIC/Internet", Value: 2 },
 					{ Name: "Movil", Value: 4 },
 					{ Name: "RRSS", Value: 2 },
-					{ Name: "Software", Value: 3 }
+					{ Name: "Software", Value: 2 }
 
 				],
                 Contextos: "Tras el divorcio se siente algo solo y cree que le vendría bien algo de compañía y ayudar a alguien",
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional", Value: 3 },
+					{ Name: "Publicidad Tradicional", Value: 4 },
 					{ Name: "Online & Social Media", Value: 3 },
 					{ Name: "Recomendaciones & sugerencias", Value: 3 },
 					{ Name: "Persona confianza (amigos, boca a boca)", Value: 5 }
@@ -71,8 +71,6 @@ angular.module("angular", [])
                 /**** SEGUNDA PERSONA          *******/
                 /*** Cambiar datos             *******/
                 /*************************************/
-
-austríaca
 				Id: 1,
 				Name: "Alba Moreno",
 				Photo: "alba-moreno.jpg",
@@ -81,14 +79,14 @@ austríaca
 				Occupation: "Ingeniera de sistemas especializada en sistemas Unix.",
 				Family: "Vive, de momento, con sus padres adoptivos y su hermana",
 				Location: "Alicante, Comunitat Valenciana.",
-				Character: "Decidica, sincera y alegre",
+				Character: "Es una apasionada de la eficiencia",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 2 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 1 },
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 1 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 3 }
 				],
-				Goals: ["Me gustaría trabajar para grandes empresas europeas como SAP", "El código no se hace sólo. El código hay que hacerlo", "Tener una bonita casa en Alemania.", "Me gustaría sentir lo que siente una piloto de MotoGP"],
+				Goals: ["Me gustaría trabajar para grandes empresas europeas como SAP", "El código no se hace sólo. El código hay que hacerlo", "Participar en el desarrollo de un sistema operativo", "Me gustaría conducir en el circuito de Jerez con mi moto"],
 				Frustrations: ["Aunque mi familia me quiere, me da miedo sentirme sola", "Necesito que alguien me de la oportunidad para demostrar lo que valgo", "Siendo ingeniera de sistemas, me da respeto romper cualquier cosa, pero con tener cuidado, confío en mi."],
 				Bio: "Desde pequeña, Alba ha sentido curiosidad por cómo funcionaban los ordenadores y la tecnología en general y decidió, desde muy pronto, hacerse informática. Los demás se metían con ellar por eso, pero nada la frenó y ha termindo estudiando Ingeniería Informática en la especialidad de sistemas.",
 				Tech: [
@@ -98,7 +96,7 @@ austríaca
 					{ Name: "Software", Value: 5 }
 
 				],
-                Contextos:   "Quiere viajar por Europa para buscar trabajo fuera pero no puede arriesgarse a gastar mucho dinero en hospedaje" ,
+                Contextos:   "Quiere viajar por España para visitar tantos pueblos como pueda mientras tenga este trabajo a distancia" ,
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional (Ads)", Value: 1 },
 					{ Name: "Online & Social Media", Value: 4 },
