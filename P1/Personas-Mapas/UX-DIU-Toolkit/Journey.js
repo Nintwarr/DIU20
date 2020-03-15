@@ -38,51 +38,60 @@ angular.module("angular", [])
                 Photo: "javier-roldan.jpg",
 
                 /*** PASO #1: INSPIRACION ***/
-                goal1: "Quiere encontrar una forma de compartir su casa",
-                touch1: "Redes Sociales",
+                goal1: "Pregunta por redes sociales una forma de compartir su casa sin tener que recurrir al alquiler\
+				tradicional. Le recomiendan compartetupiso.com.",
+                touch1: "Móvil (Twitter)",
                 feel1: "5",
-                con1: "Qué alternativas tiene y cuál le gusta más",
-                ima1: "cartoon-planning.png",
+                con1: "Entra a la página y ve que es básicamente lo que él busca, una convivencia más relajada y abierta",
+                ima1: "cartoon-PCSurprised.png",
 
                 /*** PASO #2: DECISION ***/
-                goal2: "Busca en internet diferentes formas",
-                touch2: "Odenador",
-                feel2: "3",
-                con2: "De entre las alternativas no termina de aclararse",
-                ima2: "cartoon-PCtyping.png",
+                goal2: "Entra a la página. Lee por encima los primeros cuadros de información y pasa directamente al apartado de\
+				¿Qué experiencia quieres vivir? Decide que le gustaría tomar la opción Un freelance por el mundo. Eso le recuerda mucho\
+				a él.",
+                touch2: "Ordenador",
+                feel2: "4",
+                con2: "De momento parece que lo único que hay en la página es información y poca interacción",
+                ima2: "cartoon-deciding2.png",
 
                 /*** PASO #3: ACTUA ***/
 
-                goal3: "Decide que va a probar una forma de compartición abierta, nada de alquiler tradicional",
+                goal3: "Tras un par de vueltas a la página ve el botón de Cómo funciona. Tras leerlo detenidamente decide registrarse como\
+				anfitrión. Al hacer esto le recomiendan que visite una página de Facebook. La ve y parece que es real. Además le hacen un\
+				cuestionario para hacer su perfil",
                 touch3: "Ordenador",
-                feel3: "4",
-                con3: "No sabe si encontrará información suficiente",
-                ima3: "cartoon-deciding2.png",
+                feel3: "3",
+                con3: "Le resulta raro que la página no tenga un apartado más explícito mediante el que contactar con personas.\
+				Simplemente hay un formulario que funciona por correo o está el grupo de Facebook que funciona directamente en \
+				otra página.",
+                ima3: "cartoon-PCtyping.png",
 
                 /*** PASO #4: OBSERVA ***/
 
-                goal4: "Por redes sociales le recomiendan compartetupiso.com",
-                touch4: "Móvil (Twitter)",
-                feel4: "5",
-                con4: "Entra a la página y ve que es básicamente lo que él busca, una convivencia más relajada y abierta",
-                ima4: "cartoon-PCSurprised.png",
+                goal4: "Tardan más de lo que creía en responderle. Le dicen ya qué persona va a acoger y le envían su ficha.",
+                touch4: "Ordenador",
+                feel4: "2",
+                con4: "Creía es el proceso iba a ser más rápido. Pero supone que lo hacen a mano y por eso tarda más",
+                ima4: "cartoon-why.png",
 
                  /*** PASO #5: ANALIZA ***/
 
-                goal5: 'Lee la información del inicio, lo que promete, y se ve bastante profesional. Pero no está nada claro como funciona (no ve el botón de "cómo funciona")',
+                goal5: "Lee la ficha de su nuevo inquilino, su historia y sus inquietudes y su trabajo. Le recuerda mucho a él y a Maya, su ex\
+				esposa y le da un vuelco al corazón",
                 touch5: "Ordenador",
-                feel5: "3",
-                con5: "Realmente no ve cómo contactar con personas que quieran hospedarse en su casa. Se registra y le piden que entre a un grupo de Facebook, pero él no tiene cuenta",
-                ima5: "cartoon-phoning.png",
+                feel5: "1",
+                con5: "Esa persona le ha recordado demadiado a su relación y le ha dado un golpe de tristeza.",
+                ima5: "cartoon-sad.png",
 
 
                 /*** PASO #6: CONCLUSION ***/
 
-                goal6: "Se da cuenta de que se trata de mediadores, puede ser una buena alternativa, pero no le convence",
+                goal6: "Al menos de momento va a desestimar esta opción y va a probar con otras más convencionales.",
                 touch6: "Ordenador",
                 feel6: "2",
-                con6: "Como no tiene Facebook ni ganas de uno, desiste, deja de investigar y pasa a otra alternativa",
-                ima6: "cartoon-going.png",
+                con6: "Se ha dado cuenta que quizá no le ayude a superar la reptura el compartir hogar con personas que\
+				le recuerden esos momentos que pasó con Maya",
+                ima6: "cartoon-thinking.png",
 
 			},
 			{
@@ -96,51 +105,53 @@ angular.module("angular", [])
                 Photo: "alba-moreno.jpg",
 
 				 /*** PASO #1: INSPIRACION ***/
-                goal1: "Acaba de conseguir trabajo como administradora de sistemas. Trabaja a distancia y sólo por las mañanas. Así que quiere ir viviendo en diferentes lugares de España",
-                touch1: "Calendario",
-                feel1: "5",
-                con1: "Le gustaría encontrar alojamiento barato en Barcelona primero, pero no tiene muchas esperanzas.",
+                goal1: "Ya que va a trabajar a distancia puede permitirse ir viajando por España mientras viaja. Explorando posibilidades\
+				encuentra Compartetupiso.com",
+                touch1: "Ordenador",
+                feel1: "4",
+                con1: "Le parece un sitio bonito y simple que parece que ofrece lo que busca.",
                 ima1: "cartoon-planning.png",
 
                 /*** PASO #2: DECISION ***/
-                goal2: "Busca por internet formas de convivencia baratas. Sabe que compartiendo piso le saldrá más barato, pero necesita un sitio en el que confiar",
+                goal2: "Le parece que la opción que más se puede adaptar a ella es la de Un freelance por el mundo ya que, aunque no es \
+				freelance, pretende ir cambiando de sitio el que vivr cada poco tiempo",
                 touch2: "Ordenador",
-                feel2: "4",
-                con2: "Hay muchas posibles páginas y estudiarlas todas resulta abrumador.",
+                feel2: "3",
+                con2: "No tiene claro si esa es la mejor opción",
                 ima2: "cartoon-thinking.png",
 
                 /*** PASO #3: ACTUA ***/
 
-                goal3: "Al final se decide por compartetupiso.com porque le gusta la idea del coliving y vivir con gente que comparte profesión",
-                touch3: "Ordenador",
+                goal3: "Se registra y contacta con el personal de la página para preguntar si la experiencia que busca se ajusta con la que ha elegido.",
                 feel3: "4",
-                con3: "Aunque le gusta la idea, no tiene muy claro cómo va a funcionar esto",
-                ima3: "cartoon-deciding2.png",
+                con3: "Según la página y el grupo de Facebook parece que esto es profesional y son competentes",
+                ima3: "cartoon-looking.png",
 
                 /*** PASO #4: OBSERVA ***/
 
-                goal4: "Lee toda la información de la página, lee el blog y acaba registrándose",
+                goal4: "Le comentan que su opción es la mejor para sus necesidades de modo que procede a leer el blog que hay en la página para\
+				ir informándose de la vida en convivencia.",
                 touch4: "Ordenador",
-                feel4: "2",
-                con4: "La idea le parece muy chula, pero hasta que no vea el funcionamiento del sistema está un poco reticente. Tras registrarse le enlaza a un grupo de Facebook y no confía mucho, pero entra",
-                ima4: "cartoon-why.png",
+                feel4: "5",
+                con4: "Le parecen muy útiles todos los artículos",
+                ima4: "cartoon-PCSurprised.png",
 
                  /*** PASO #5: ANALIZA ***/
 
-                goal5: "Entra al grupo de Facebook y pregunta al personal de la página mediante la pestaña de contactow sobre el funcionamiento",
+                goal5: "Le responden bastante rápido con un lugar en el que pasar varios meses",
                 touch5: "Ordenador",
-                feel5: "3",
-                con5: "Parece que no hay ningún sistema informático detrás del proceso, que todo son relaciones con personas. La verdad es que le sorprende y está un poco confundida",
-                ima5: "cartoon-looking.png",
+                feel5: "5",
+                con5: "Le encanta el sitio y en la ficha de los anfitriones pone que les gusta la informática, así que está encantada.",
+                ima5: "cartoon-PChappy.png",
 
 
                 /*** PASO #6: CONCLUSION ***/
 
-                goal6: "Al final entiende que se trata de personas que ponen en contacto a otras personas en función del tipo de convivencia que quieren experimentar y otra información acerca de ellos mismos. Al final le ofrecen compartir piso precisamente en Barcelona",
+                goal6: "Le ha parecido todo un acierto utilizar esta página",
                 touch6: "Ordenador",
-                feel6: "3",
-                con6: "Va a seguir adelante con esto pero sigue sin confiar demasiado en el sistema. De momento tiene ya el viaje a Barcelona y va a probar la experiencia.",
-                ima6: "cartoon-going.png",
+                feel6: "5",
+                con6: "Está muy emocionada por empezar a vivir en su nueva casa",
+                ima6: "cartoon-happy.png",
 
 
 

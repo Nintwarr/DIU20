@@ -33,24 +33,19 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 Nuestro grupo se encargará de analizar sitios web dedicados a la compartición de viviendas por diferentes métodos.
 
-En mi caso he escogido [compartetupiso.com](https://www.compartetupiso.com/) porque me pareció un sitio muy elegante, con una disposición de los contenidos muy bonita y simple. Leyendo un poco la página observé que se trataba de una forma de convivencia distinta y eso me llamó la ateción así que quería ver qué ofrecía esta página y analizrlo con algo más de detalle.
-
-Este portal funciona de modo que tu te inscribes a una lista de personas que, o bien ofrecen su vivienda o bien necesitan alojarse. Una vez inscrito, te contactan para que respondas una serie de preguntas que servirán para encajarte en un perfil. Una de ellas incluye el tipo de convivencia que prefieres de entre los que ofrecen.
-
-Finalmente te contactan con las diferentes opciones que han encontrado.
-
-Todo esto lo manejan personas, la página es un mero escaparate para contarte de qué va el asunto y registrarte.
+Yo he escogido [compartetupiso.com](https://www.compartetupiso.com/) **simplemente** porque me pareció la más bonita y más simple. Ofrecía algo diferente
+sin competencia directa y eso me atrajo. No he encontrado nada parecido con lo que compararla.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
 >>> *Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)*
 
-Por un  lado he escogido a Javier Roldán. Me parecía interesante concebir una persona que es alegre y confiable pero que su vida no es una utopía y se divorció de su pareja. Así que necesita algo de compañía para superarlo y compartir su casa es una buena idea.
+Por un  lado he escogido a Javier Roldán, un hombre de 45 años recién divorciado que necesita compañía.
 
 ![Javier Cole](P1/javier-roldan.png)
 
-Por otro lado se me ha ocurrido el perfil de Alba Moreno. Una recién graduada que acaba de encontrar trabajo y resulta que es a distancia. Eso le da libertad de alojamiento e ingresos. Ella ha querido viajar por España desde hace mucho y ahora le parece un momento muy propicio.
+Por otro lado se me ha ocurrido el perfil de Alba Moreno, una joven con ganas de viajar pero poco dinero.
 
 ![Alba Moreno](P1/alba-moreno.png)
 
@@ -60,11 +55,11 @@ Por otro lado se me ha ocurrido el perfil de Alba Moreno. Una recién graduada q
 
 >>> *Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres)*
 
-Quería que una de las experiencias fuera negativa porque así ha sido mi primer contacto con la página. En una primera visita no me quedó nada claro de que iba el asunto y desconfié bastante. He querido reflejar un poco esa parte.
+Quería tener una mala experiencia que no dependiera directamente de la página.
 
 ![Experiencia de Javier Cole](P1/mapa-javier-roldan.png)
 
-Sin embargo puedo entender que haya personas más ávidas en lo que ofrece esta página y que le quieran dar una segunda oportunidad. Así que, Alba, con su personalidad más decidida, se esfuerza un poco más y consigue llegar a un resultado medianamente satisfactorio.
+Y otra experiencia plenamente satisfactoria.
 
 ![Experiencia de Alba Roldán](P1/mapa-alba-moreno.png)
 
