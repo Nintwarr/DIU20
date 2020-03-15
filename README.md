@@ -49,6 +49,8 @@ Por otro lado se me ha ocurrido el perfil de Alba Moreno, una joven con ganas de
 
 ![Alba Moreno](P1/imagenes/alba-moreno.png)
 
+Para saber más sobre estas personas, vaya [aquí](P1#Personas)
+
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
