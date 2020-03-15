@@ -43,11 +43,11 @@ sin competencia directa y eso me atrajo. No he encontrado nada parecido con lo q
 
 Por un  lado he escogido a Javier Roldán, un hombre de 45 años recién divorciado que necesita compañía.
 
-![Javier Cole](P1/javier-roldan.png)
+![Javier Cole](P1/imagenes/javier-roldan.png)
 
 Por otro lado se me ha ocurrido el perfil de Alba Moreno, una joven con ganas de viajar pero poco dinero.
 
-![Alba Moreno](P1/alba-moreno.png)
+![Alba Moreno](P1/imagenes/alba-moreno.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -57,17 +57,17 @@ Por otro lado se me ha ocurrido el perfil de Alba Moreno, una joven con ganas de
 
 Quería tener una mala experiencia que no dependiera directamente de la página.
 
-![Experiencia de Javier Cole](P1/mapa-javier-roldan.png)
+![Experiencia de Javier Cole](P1/imagenes/mapa-javier.png)
 
 Y otra experiencia plenamente satisfactoria.
 
-![Experiencia de Alba Roldán](P1/mapa-alba-moreno.png)
+![Experiencia de Alba Roldán](P1/imagenes/mapa-alba.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento: (sube a github el xls/pdf)
+>>> - Enlace al documento: [Aquí](https://github.com/Nintwarr/DIU20/blob/master/P1/Usability-review.xlsx)
 >>> - Valoración final (numérica): 80
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 
