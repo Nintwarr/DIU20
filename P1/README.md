@@ -18,12 +18,13 @@ He decidido analizar *Compartetupiso* frente a otras como *Badi* o *Couchsurfing
 página de portada es la de registrarse y eso me parece bastante poco amigable de cara a nuevos usuarios ya que no hay ninguna guía visual de en qué tipo
 de página te estás registrando.
 
-<img alt="Portada Badi" src="imagenes/portada-badi.png" width="32%">
-<img alt="Portada Couchsurfing" src="imagenes/portada-couch.png" width="32%">
-<img alt="Portada Compartetupiso" src="imagenes/portada-comparte.png" width="32%">
+<img alt="Portada Badi" src="imagenes/portada-badi.png">
+<img alt="Portada Couchsurfing" src="imagenes/portada-couch.png">
+<img alt="Portada Compartetupiso" src="imagenes/portada-comparte.png">
 
 
 ## Personas
+### Javier Roldán
 <img alt="Avatar Javier Roldán" src="Personas-Mapas/UX-DIU-Toolkit/photos/javier-roldan.jpg" style="float: left; margin-right: 1em; margin-bottom: 1em;">
 <pre>	Por un  lado he escogido a Javier Roldán.
 Me parecía interesante concebir una persona que es
@@ -59,10 +60,11 @@ egoísta.
 
 Así que ahí está Javier, superando la ruptura en la casa que compró para que vivieran ambos y formaran una familia.
 
+### Alba Moreno
 <img alt="Avatar Alba Moreno" src="Personas-Mapas/UX-DIU-Toolkit/photos/alba-moreno.jpg" style="float: left; margin-right: 1em;">
 <pre>	Por otro lado se me ha ocurrido el perfil de Alba Moreno.
 Una recién graduada que acaba de encontrar trabajo
- y resulta que es a distancia. Eso le da libertad
+y resulta que es a distancia. Eso le da libertad
 de alojamiento e ingresos. Ella ha querido viajar
 por España desde hace mucho y ahora le parece un
 momento muy propicio.
