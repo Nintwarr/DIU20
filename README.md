@@ -69,9 +69,7 @@ Y otra experiencia plenamente satisfactoria.
 >>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento: [Aquí](https://github.com/Nintwarr/DIU20/blob/master/P1/Usability-review.pdf)
 >>> - Valoración final (numérica): 80
->>> - Comentario sobre la valoración:  (60-120 caracteres)
-
-Es una página sencilla, orientada a mostrar información y no a interactuar con ella. Por ello es capaz de mantenerse limpia y bonita.
+>>> - Comentario sobre la valoración: Es una página sencilla, orientada a mostrar información y no a interactuar con ella. Por ello es capaz de mantenerse limpia y bonita.
 
 ## Paso 2. UX Design
 
