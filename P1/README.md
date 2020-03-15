@@ -29,8 +29,10 @@ de página te estás registrando.
 Me parecía interesante concebir una persona que es
 alegre y confiable pero que su vida no es una utopía
 y se divorció de su pareja. Así que necesita algo
-de compañía para superarlo y compartir su casa es
-una buena idea.</pre>
+de compañía para superarlo y compartir su casa parece,
+a priori, una buena idea.</pre>
+
+![Javier Cole](imagenes/javier-roldan.png)
 
 ### Más sobre Javier:
 Javier es un hombre de 45 años que nació en Madrid. Su madre, una inmigrante cubana se enamoró de un español y tuvieron juntos a Javier. Desde
@@ -66,6 +68,8 @@ por España desde hace mucho y ahora le parece un
 momento muy propicio.
 </pre>
 
+![Alba Moreno](imagenes/alba-moreno.png)
+
 ### Más sobre Alba:
 Ella es una chica de 24 años que nació en Fuzhou, China. Sus padres la dieron en adopción tras nacer porque no se podían hacer cargo de ella. Tuvo
 la suerte de que la familia Moreno Gascó la adoptara siendo aún un bebé.
@@ -93,4 +97,18 @@ Sin embargo puedo entender que haya personas más ávidas en lo que ofrece esta 
 
 ![Experiencia de Alba Roldán](imagenes/mapa-alba.png)
 
-- Revisión de Usabilidad
+## Revisión de Usabilidad
+
+La revisión completa se encuentra [aquí](Usability-review.xlsx).
+
+Ha obtenido un apuntación numérica de 80 puntos.
+
+La página tiene un diseño bonito, limpio y conciso. Las cosas principales que necesitas saber de la página ya las tienes en la portada.
+Registrarse, consultar el blog y contactar con el personal es muy fácil y está muy a mano. Tembién ayuda que no tiene ningún apartado
+interactivo ni ningún mecanismo complicado. Es principalmente información, un escaparate para esta iniciativa de convivencia diferente.
+
+Como no hay acciones complejas, la página no se ensucia con nada y se entra mucho en maquetar la información de una forma simple.
+
+Realmente esta página no tiene mucho más de donde sacarle jugo. Por ese lado es un poco decepcionante al principio ya que uno espera
+poder interactuar con personas o ver lugares para alojarse en la propia página pero lueog te das cuenta de que eso lo manejan aparte
+personas. Al menos eso queda claro tras leerte la infomación de la página y, sobre todo, tras registrarte.
