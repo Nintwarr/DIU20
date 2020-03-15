@@ -67,7 +67,7 @@ Y otra experiencia plenamente satisfactoria.
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento: [Aquí](https://github.com/Nintwarr/DIU20/blob/master/P1/Usability-review.xlsx)
+>>> - Enlace al documento: [Aquí](https://github.com/Nintwarr/DIU20/blob/master/P1/Usability-review.pdf)
 >>> - Valoración final (numérica): 80
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 
