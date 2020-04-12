@@ -6,7 +6,7 @@ A continuación se desglosan los pasos a seguir para las primeras etapas de desa
 
 ## Malla receptora de información
 
-Puedes encontrar el documento [aquí](Malla-receptora).
+Puedes encontrar el documento [aquí](Malla-receptora.pdf).
 
 En este documento se procurá recoger información del diseño de la página que ya existe e intentar mejorarlo mediante las preguntas de nuestras personas y nuevas ideas que tengamos para la aplicación.
 
@@ -49,6 +49,8 @@ En este caso el documento es una imagen, así que la podemos ver directamente aq
 ![Sitemap](Sitemap.png)
 
 Es bastante autoexplicativo. Pero cabe mencionar que no sólo he tenido en cuanta qué sitio lleva a cual sino que ya he anticipado qué sitio será una pantalla nueva de la aplicación y que sitio puede ser un elemento flotante. Y, para agilizar, algunas etiquetas representan a un conjunto de etiquetas.
+
+[Pincha aquí](Sitemap.png) para ver la imagen original
 
 ## Labelling
 
