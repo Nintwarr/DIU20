@@ -80,24 +80,27 @@ Y otra experiencia plenamente satisfactoria.
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
+>>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior.
 
  Interesante | Críticas
 | ------------- | -------
   Preguntas | Nuevas ideas
 
-
+El documento completo está [aquí](P2#Malla+receptora+de+información).
 
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
 >>> (150-200 caracteres)
+
+Una forma más directa de comunicación entre los propios usuarios ayuda a reforzar el concepto de comprtir y ayuda a los usuarios a crear una comunidad de la que formar parte
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap
 -----
 
 >>> Definir "User Map" y "Task Flow" ...
+
+Hemos querido hacer hincapié en que hay tareas que no se tenían en cuenta pero que realmente sí tienen peso. Las puedes ver en esta [tabla *Usuarios / Tareas*](P2#Tabla+Usuarios+/+Tareas).
+
+En cuanto al sitemap, puedes verlo completo [aquí](P2#Sitemap).
 
 
 ![Método UX](img/labelling.png) 2.c Labelling
@@ -110,11 +113,15 @@ Término | Significado
 | ------------- | -------
   Login¿?  | acceder a plataforma
 
+Se detalla en [este documento](P2#Labelling).
+
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación )
+
+Hemos hecho a mano una serie de bocetos *lo-fi* de las diferentes panatallas en formato aplicación móvil. Puedes verlos [aquí](P2#Bocetos+Lo-Fi).
 
 
 ## Paso 3. Make (Prototyping)
