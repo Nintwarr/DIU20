@@ -88,7 +88,7 @@ Y otra experiencia plenamente satisfactoria.
 | ------------- | -------
   Preguntas | Nuevas ideas
 
-El documento completo está [aquí](P2#Malla+receptora+de+información).
+El documento completo está [aquí](P2#Malla-receptora-de-información).
 
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> (150-200 caracteres)
@@ -100,7 +100,7 @@ Una forma más directa de comunicación entre los propios usuarios ayuda a refor
 
 >>> Definir "User Map" y "Task Flow" ...
 
-Hemos querido hacer hincapié en que hay tareas que no se tenían en cuenta pero que realmente sí tienen peso. Las puedes ver en esta [tabla *Usuarios / Tareas*](P2#Tabla+Usuarios+/+Tareas).
+Hemos querido hacer hincapié en que hay tareas que no se tenían en cuenta pero que realmente sí tienen peso. Las puedes ver en esta [tabla *Usuarios / Tareas*](P2#Tabla-Usuarios--Tareas).
 
 En cuanto al sitemap, puedes verlo completo [aquí](P2#Sitemap).
 
@@ -123,7 +123,7 @@ Se detalla en [este documento](P2#Labelling).
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación )
 
-Hemos hecho a mano una serie de bocetos *lo-fi* de las diferentes panatallas en formato aplicación móvil. Puedes verlos [aquí](P2#Bocetos+Lo-Fi).
+Hemos hecho a mano una serie de bocetos *lo-fi* de las diferentes panatallas en formato aplicación móvil. Puedes verlos [aquí](P2#Bocetos-Lo-Fi).
 
 
 ## Paso 3. Mi equipo UX-Case Study
