@@ -4,14 +4,15 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 Grupo: DIU2_Mjölnir.  Curso: 2019/20
 
 Proyecto:
->>> Decida el nombre corto de su propuesta en la práctica 2
+>>> App para Compartetupiso
 
 Descripción:
 
->>> Describa la idea de su producto en la práctica 2
+>>> Es una aplicación movil que comparte funciones con la página web de [Compartetupiso.com](https://compartetupiso.com) y añade algunas como el chat de soporte o el foro.
 
 Logotipo:
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
+>>> (Se mantendría el original)
 
 Miembros
  * :bust_in_silhouette:   Darío Megías Guerrero     [:octocat:](https://github.com/Nintwarr)
@@ -132,22 +133,30 @@ Hemos hecho a mano una serie de bocetos *lo-fi* de las diferentes panatallas en 
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
-
 >>> Analizar lo aprendido de la experiencia MuseApp
+
+Es un IX-Case Study muy completo elaborado por un equipo profesional con un objetivo claro en mente. Pero, ¿es quizá demasiado extenso? [Esto pienso](P3#Analisis-de-MuseMap)
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
+El logotipo que ya ofrece la página me parece muy adecuado
+
+![Logotiopo Compartetupiso](P3/imagenes/etiquetas/logo.svg)
 
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
+El estilo de la página original es algo que quise conservar y mi meta es seguir un [estilo similar](P3#Propuesta-de-elementos-de-diseño-o-patrones-a-usar)
+
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
+
+[Enlace al vídeo]()
 
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
