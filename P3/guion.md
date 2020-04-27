@@ -9,7 +9,7 @@ Mmmmh, no sé que hacer.
 
 Sí, alquilar piso es caro, tiene su riesgo y es aburrido. (Piensa un momento) Oye, ¿Y por qué no lo compartes? Sí, sí, dame un minuto.
 
-¿No estaría genial que haya personas que conecten a otras personas para compartir piso? Tiene foro y todo.
+¿No estaría genial que haya personas que conecten a otras personas para compartir piso?
 
 (Se muestra la página y sigue hablando en off)
 

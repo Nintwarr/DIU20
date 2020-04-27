@@ -156,7 +156,7 @@ El estilo de la página original es algo que quise conservar y mi meta es seguir
 ![Método UX](img/mockup.png)  3.d Video
 ----
 
-[Enlace al vídeo]()
+[Enlace al vídeo](https://youtu.be/wHdrWwJmTNI)
 
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 

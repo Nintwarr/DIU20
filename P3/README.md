@@ -81,7 +81,10 @@ Son meras explicaciones de qué significa cada palabra. Se procuró usar siempre
 
 Ya llevé a papel las ideas que había estado dando en los pasos anteriores. Resultó una app muy sencilla con elementos muy comunes como el *botón hamburguesa*, inicio de sesión flotante y un banner con el logo que te lleva a la pantalla principal. El cuerpo es lo más variable, con *layouts* distintos que se amoldan realmente al contenido original de la página.
 
-[Vídeo]()
+
+### Vídeo UX Case Study
+
+[Enlace aquí](https://youtu.be/wHdrWwJmTNI)
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 
