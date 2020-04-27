@@ -135,14 +135,14 @@ Hemos hecho a mano una serie de bocetos *lo-fi* de las diferentes panatallas en 
 
 >>> Analizar lo aprendido de la experiencia MuseApp
 
-Es un IX-Case Study muy completo elaborado por un equipo profesional con un objetivo claro en mente. Pero, ¿es quizá demasiado extenso? [Esto pienso](P3#Analisis-de-MuseMap)
+Es un IX-Case Study muy completo elaborado por un equipo profesional con un objetivo claro en mente. Pero, ¿es quizá demasiado extenso? [Esto pienso](P3#an%C3%A1lisis-de-musemap)
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
 El logotipo que ya ofrece la página me parece muy adecuado
 
-![Logotiopo Compartetupiso](P3/imagenes/etiquetas/logo.svg)
+![Logotiopo Compartetupiso](P2/imagenes/etiquetas/logo.svg)
 
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
