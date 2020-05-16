@@ -184,7 +184,7 @@ Parten de *Badi* para crear *FHome*.
 
 La app trata de compartir tu vivienda o parte de ella.
 
-#### Caso 3
+#### Caso 3: Equipo Lutece del grupo DIU-3
 
 Son José Manuel Navarro Cuartero e Iván Valero Rodríguez ([aquí el GitHub de su proyecto](https://github.com/IvanitiX/DIU20)).
 
