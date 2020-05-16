@@ -168,23 +168,54 @@ El estilo de la página original es algo que quise conservar y mi meta es seguir
 ----
 
 
->>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
+#### Caso 1: Equipo MMM del grupo DIU-1
 
->>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones
+Son Ana María Romero Delgado y Juan Ocaña Valenzuela ([aquí el GitHub de su proyecto](https://github.com/patchispatch/DIU20)).
+
+Parten de la página *Nomadizers* para crear la app homónima.
+
+La app trata de compartir experiencias de viaje y no sólo el viaje en sí.
+
+#### Caso 2: Equipo Mumavi del grupo DIU-2
+
+Son Francisco Javier Casado de Amezúa García y Miguel Muñoz Molina ([aquí el GitHub de su proyecto](https://github.com/javiercdag/DIU20)).
+
+Parten de *Badi* para crear *FHome*.
+
+La app trata de compartir tu vivienda o parte de ella.
+
+#### Caso 3
+
+Son José Manuel Navarro Cuartero e Iván Valero Rodríguez ([aquí el GitHub de su proyecto](https://github.com/IvanitiX/DIU20)).
+
+Parten de *MeetUp* para crear *CountWithMe*.
+
+La app trata de compartir experiencias o eventos concretos.
+
+**Más información sobre cada uno de ellos en la carpeta [P4](P4)**
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
+He elegido a Alba de entre mis personas de usuario. En su historia encaja muy bien este tipo de aplicaciones y, con todas ellas, se loa ha pasado en grande.
+
+Lee sus experiencias [AQUÍ](P4#user-testing)
 
 
 ![Método UX](img/Survey.png). 4.c Ranking
 ----
 
->>> Concluya con un ranking de los casos evaluados
+Así han quedado las puntuaciones:
+| Equipo | Puesto | Puntuación | Resultado |
+|--------|--------|------------|-----------|
+| MMM    | 2º     | 94/100     | Excelente |
+| Mumavi | 1º     | 95/100     | Excelente |
+| Lutece | 3º     | 90/100     | Excelente |
 
->>> Valoración personal
+#### Conclusión y valoración sobre P4
+
+En general me ha servido para aprender, para ver el diseño con más perspectiva e ilusión y darle más importancia. Conclusión más extendida [AQUÍ](P4#conclusiones)
 
 
 ## Paso 5. Evaluación de Accesibilidad
