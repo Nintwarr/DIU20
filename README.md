@@ -198,7 +198,7 @@ La app trata de compartir experiencias o eventos concretos.
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
-He elegido a Alba de entre mis personas de usuario. En su historia encaja muy bien este tipo de aplicaciones y, con todas ellas, se loa ha pasado en grande.
+He elegido a Alba de entre mis personas de usuario. En su historia encaja muy bien este tipo de aplicaciones y, con todas ellas, se lo ha pasado en grande.
 
 Lee sus experiencias [AQUÍ](P4#user-testing)
 
@@ -215,7 +215,7 @@ Así han quedado las puntuaciones:
 
 #### Conclusión y valoración sobre P4
 
-En general me ha servido para aprender, para ver el diseño con más perspectiva e ilusión y darle más importancia. Conclusión más extendida [AQUÍ](P4#conclusiones)
+En general me ha servido para aprender, para ver el diseño en sí con más perspectiva e ilusión y darle más importancia. Conclusión más extendida [AQUÍ](P4#conclusiones)
 
 
 ## Paso 5. Evaluación de Accesibilidad
